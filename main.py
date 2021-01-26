@@ -33,7 +33,7 @@ def runCommand(cmd, timeout=None, window=None):
     return (retval, output)
 
 
-def camera():
+def w():
     sg.theme('LightGreen')
 
     layout = [[sg.Text(' Python EXE Creator', font='Any 15')],
@@ -120,11 +120,11 @@ while True:
         keys_entered = values['input']
         if values['input']=='123456':
             sg.popup('输入正确')
-            camera()
+            w()
         else:
              sg.popup('输入错误')
         window['out'].update(keys_entered)  # output the final string
 
     # change the form to reflect current key string
     window['input'].update(keys_entered)
-window.close(
+window.close()
