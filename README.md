@@ -3,7 +3,7 @@
 1. Make sure your computer meets the python3.6 environment and the corresponding package.  
 2. Make sure your computer has a compiler capable of running python. 
 # `Guide`:
-You can copy my code and run it in your compiler, or you can directly download the exe file that I packaged.:baby_chick::baby_chick:  
+To generate an exe file, you need to upload a .py file and an .icon file, you can use the .icon file I uploaded.:hatching_chick::hatching_chick:   
 After running the program, you need to enter the password to enter the function interface. I believe that with your wisdom, you will know what the password is. :pig::pig:
 # `Reference `:
 https://pysimplegui.readthedocs.io/en/latest/
