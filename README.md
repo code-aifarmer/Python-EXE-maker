@@ -7,5 +7,5 @@ To generate an exe file, you need to upload a .py file and an .icon file, you ca
 After running the program, you need to enter the password to enter the function interface. I believe that with your wisdom, you will know what the password is. :pig::pig:
 # `Reference `:
 https://pysimplegui.readthedocs.io/en/latest/
-#`Author's voice `:
+# `Author's voice `:
 If you like this small project, please give a star and attention as encouragement, hope more capable people will give me advice and help.:star::star::star:
